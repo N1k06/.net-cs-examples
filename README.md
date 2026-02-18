@@ -12,4 +12,6 @@ C# Code Examples using .NET Framework (and sometimes additional libraries)
  - [PrisonersDilemmaTournament](https://github.com/N1k06/.net-cs-examples/tree/main/PrisonersDilemmaTournament)
  - [FifteenGameSFML](https://github.com/N1k06/.net-cs-examples/tree/main/FifteenGameSFML)
  - [GravitySimulationSFML](https://github.com/N1k06/.net-cs-examples/tree/main/GravitySimulationSFML)
+ - [SciaSFML](https://github.com/N1k06/.net-cs-examples/tree/main/SciaSFML)
+
 
